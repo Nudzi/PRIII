@@ -1,0 +1,12 @@
+﻿  Source.cpp
+c:\users\aida i tarik\desktop\pr3\pr3 visual\ispit pr 3, 09.13\ispit pr 3, 09.13\source.cpp(221): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\ispit pr 3, 09.13\ispit pr 3, 09.13\source.cpp(238): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\ispit pr 3, 09.13\ispit pr 3, 09.13\source.cpp(249): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\ispit pr 3, 09.13\ispit pr 3, 09.13\source.cpp(282): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\ispit pr 3, 09.13\ispit pr 3, 09.13\source.cpp(311): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\ispit pr 3, 09.13\ispit pr 3, 09.13\source.cpp(386): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\aida i tarik\desktop\pr3\pr3 visual\ispit pr 3, 09.13\ispit pr 3, 09.13\source.cpp(74): warning C4018: '<': signed/unsigned mismatch
+  c:\users\aida i tarik\desktop\pr3\pr3 visual\ispit pr 3, 09.13\ispit pr 3, 09.13\source.cpp(73): note: while compiling class template member function 'std::ostream &operator <<(std::ostream &,Kolekcija<std::string,ZavrsniRad> &)'
+  c:\users\aida i tarik\desktop\pr3\pr3 visual\ispit pr 3, 09.13\ispit pr 3, 09.13\source.cpp(217): note: see reference to class template instantiation 'Kolekcija<std::string,ZavrsniRad>' being compiled
+c:\users\aida i tarik\desktop\pr3\pr3 visual\ispit pr 3, 09.13\ispit pr 3, 09.13\source.cpp(295): warning C4715: 'Nastavnik::DodajZavrsniRad': not all control paths return a value
+  ispit pr 3, 09.13.vcxproj -> C:\Users\Aida i Tarik\Desktop\PR3\pr3 Visual\ispit pr 3, 09.13\Debug\ispit pr 3, 09.13.exe

@@ -1,0 +1,15 @@
+﻿  Source.cpp
+c:\users\aida i tarik\desktop\pr3\pr3 visual\zavrsni rad\zavrsni rad\source.cpp(152): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\zavrsni rad\zavrsni rad\source.cpp(163): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\zavrsni rad\zavrsni rad\source.cpp(183): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\zavrsni rad\zavrsni rad\source.cpp(199): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\zavrsni rad\zavrsni rad\source.cpp(211): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\zavrsni rad\zavrsni rad\source.cpp(222): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\zavrsni rad\zavrsni rad\source.cpp(227): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\aida i tarik\desktop\pr3\pr3 visual\zavrsni rad\zavrsni rad\source.cpp(269): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\zavrsni rad\zavrsni rad\source.cpp(282): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\aida i tarik\desktop\pr3\pr3 visual\zavrsni rad\zavrsni rad\source.cpp(56): warning C4018: '<': signed/unsigned mismatch
+  c:\users\aida i tarik\desktop\pr3\pr3 visual\zavrsni rad\zavrsni rad\source.cpp(55): note: while compiling class template member function 'std::ostream &operator <<(std::ostream &,Kolekcija<std::string,ZavrsniRad,10> &)'
+  c:\users\aida i tarik\desktop\pr3\pr3 visual\zavrsni rad\zavrsni rad\source.cpp(143): note: see reference to class template instantiation 'Kolekcija<std::string,ZavrsniRad,10>' being compiled
+c:\users\aida i tarik\desktop\pr3\pr3 visual\zavrsni rad\zavrsni rad\source.cpp(176): warning C4715: 'Nastavnik::dvijeOblasti': not all control paths return a value
+  zavrsni rad.vcxproj -> C:\Users\Aida i Tarik\Desktop\PR3\pr3 Visual\zavrsni rad\Debug\zavrsni rad.exe

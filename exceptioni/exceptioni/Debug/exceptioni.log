@@ -1,0 +1,16 @@
+﻿  Source.cpp
+c:\users\aida i tarik\desktop\pr3\pr3 visual\exceptioni\exceptioni\source.cpp(233): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\exceptioni\exceptioni\source.cpp(236): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\exceptioni\exceptioni\source.cpp(247): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\exceptioni\exceptioni\source.cpp(252): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\exceptioni\exceptioni\source.cpp(327): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\exceptioni\exceptioni\source.cpp(337): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\exceptioni\exceptioni\source.cpp(350): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\exceptioni\exceptioni\source.cpp(361): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\exceptioni\exceptioni\source.cpp(401): warning C4101: 'temp': unreferenced local variable
+c:\users\aida i tarik\desktop\pr3\pr3 visual\exceptioni\exceptioni\source.cpp(476): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\exceptioni\exceptioni\source.cpp(489): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\exceptioni\exceptioni\source.cpp(502): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\exceptioni\exceptioni\source.cpp(548): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\exceptioni\exceptioni\source.cpp(557): warning C4101: 'temp': unreferenced local variable
+  exceptioni.vcxproj -> C:\Users\Aida i Tarik\Desktop\PR3\pr3 Visual\exceptioni\Debug\exceptioni.exe

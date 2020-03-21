@@ -1,0 +1,31 @@
+﻿  Source.cpp
+c:\users\aida i tarik\desktop\pr3\pr3 visual\uspjeh, kandidat\uspjeh, kandidat\source.cpp(202): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\uspjeh, kandidat\uspjeh, kandidat\source.cpp(218): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\uspjeh, kandidat\uspjeh, kandidat\source.cpp(231): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\uspjeh, kandidat\uspjeh, kandidat\source.cpp(341): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\aida i tarik\desktop\pr3\pr3 visual\uspjeh, kandidat\uspjeh, kandidat\source.cpp(98): warning C4018: '<': signed/unsigned mismatch
+  c:\users\aida i tarik\desktop\pr3\pr3 visual\uspjeh, kandidat\uspjeh, kandidat\source.cpp(97): note: while compiling class template member function 'std::ostream &operator <<(std::ostream &,Kolekcija<int,int> &)'
+  c:\users\aida i tarik\desktop\pr3\pr3 visual\uspjeh, kandidat\uspjeh, kandidat\source.cpp(367): note: see reference to class template instantiation 'Kolekcija<int,int>' being compiled
+c:\users\aida i tarik\desktop\pr3\pr3 visual\uspjeh, kandidat\uspjeh, kandidat\source.cpp(71): warning C4018: '<': signed/unsigned mismatch
+  c:\users\aida i tarik\desktop\pr3\pr3 visual\uspjeh, kandidat\uspjeh, kandidat\source.cpp(68): note: while compiling class template member function 'void Kolekcija<int,int>::AddElement(const T1 &,const T2 &)'
+          with
+          [
+              T1=int,
+              T2=int
+          ]
+  c:\users\aida i tarik\desktop\pr3\pr3 visual\uspjeh, kandidat\uspjeh, kandidat\source.cpp(369): note: see reference to function template instantiation 'void Kolekcija<int,int>::AddElement(const T1 &,const T2 &)' being compiled
+          with
+          [
+              T1=int,
+              T2=int
+          ]
+c:\users\aida i tarik\desktop\pr3\pr3 visual\uspjeh, kandidat\uspjeh, kandidat\source.cpp(61): warning C4018: '<': signed/unsigned mismatch
+  c:\users\aida i tarik\desktop\pr3\pr3 visual\uspjeh, kandidat\uspjeh, kandidat\source.cpp(54): note: while compiling class template member function 'Kolekcija<int,int> &Kolekcija<int,int>::operator =(const Kolekcija<int,int> &)'
+  c:\users\aida i tarik\desktop\pr3\pr3 visual\uspjeh, kandidat\uspjeh, kandidat\source.cpp(375): note: see reference to function template instantiation 'Kolekcija<int,int> &Kolekcija<int,int>::operator =(const Kolekcija<int,int> &)' being compiled
+c:\users\aida i tarik\desktop\pr3\pr3 visual\uspjeh, kandidat\uspjeh, kandidat\source.cpp(49): warning C4018: '<': signed/unsigned mismatch
+  c:\users\aida i tarik\desktop\pr3\pr3 visual\uspjeh, kandidat\uspjeh, kandidat\source.cpp(45): note: while compiling class template member function 'Kolekcija<int,int>::Kolekcija(const Kolekcija<int,int> &)'
+  c:\users\aida i tarik\desktop\pr3\pr3 visual\uspjeh, kandidat\uspjeh, kandidat\source.cpp(372): note: see reference to function template instantiation 'Kolekcija<int,int>::Kolekcija(const Kolekcija<int,int> &)' being compiled
+c:\users\aida i tarik\desktop\pr3\pr3 visual\uspjeh, kandidat\uspjeh, kandidat\source.cpp(32): warning C4018: '<': signed/unsigned mismatch
+  c:\users\aida i tarik\desktop\pr3\pr3 visual\uspjeh, kandidat\uspjeh, kandidat\source.cpp(31): note: while compiling class template member function 'void Kolekcija<int,int>::SortOpadajuciByT2(void)'
+  c:\users\aida i tarik\desktop\pr3\pr3 visual\uspjeh, kandidat\uspjeh, kandidat\source.cpp(376): note: see reference to function template instantiation 'void Kolekcija<int,int>::SortOpadajuciByT2(void)' being compiled
+  uspjeh, kandidat.vcxproj -> C:\Users\Aida i Tarik\Desktop\PR3\pr3 Visual\uspjeh, kandidat\Debug\uspjeh, kandidat.exe

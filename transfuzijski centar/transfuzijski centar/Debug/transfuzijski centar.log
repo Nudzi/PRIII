@@ -1,0 +1,15 @@
+﻿  Source.cpp
+c:\users\aida i tarik\desktop\pr3\pr3 visual\transfuzijski centar\transfuzijski centar\source.cpp(283): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\transfuzijski centar\transfuzijski centar\source.cpp(323): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\transfuzijski centar\transfuzijski centar\source.cpp(332): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\transfuzijski centar\transfuzijski centar\source.cpp(343): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\transfuzijski centar\transfuzijski centar\source.cpp(345): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\transfuzijski centar\transfuzijski centar\source.cpp(350): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\aida i tarik\desktop\pr3\pr3 visual\transfuzijski centar\transfuzijski centar\source.cpp(357): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\transfuzijski centar\transfuzijski centar\source.cpp(112): warning C4018: '<': signed/unsigned mismatch
+  c:\users\aida i tarik\desktop\pr3\pr3 visual\transfuzijski centar\transfuzijski centar\source.cpp(111): note: while compiling class template member function 'std::ostream &operator <<(std::ostream &,const Kolekcija<int,int,10> &)'
+  c:\users\aida i tarik\desktop\pr3\pr3 visual\transfuzijski centar\transfuzijski centar\source.cpp(356): note: see reference to class template instantiation 'Kolekcija<int,int,10>' being compiled
+c:\users\aida i tarik\desktop\pr3\pr3 visual\transfuzijski centar\transfuzijski centar\source.cpp(48): warning C4018: '<': signed/unsigned mismatch
+  c:\users\aida i tarik\desktop\pr3\pr3 visual\transfuzijski centar\transfuzijski centar\source.cpp(47): note: while compiling class template member function 'void Kolekcija<int,int,10>::Sort(std::string)'
+  c:\users\aida i tarik\desktop\pr3\pr3 visual\transfuzijski centar\transfuzijski centar\source.cpp(363): note: see reference to function template instantiation 'void Kolekcija<int,int,10>::Sort(std::string)' being compiled
+  transfuzijski centar.vcxproj -> C:\Users\Aida i Tarik\Desktop\PR3\pr3 Visual\transfuzijski centar\Debug\transfuzijski centar.exe

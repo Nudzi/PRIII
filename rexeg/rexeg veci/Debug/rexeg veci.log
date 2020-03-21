@@ -1,0 +1,32 @@
+﻿  Source.cpp
+c:\users\aida i tarik\desktop\pr3\pr3 visual\rexeg veci\rexeg veci\source.cpp(335): warning C4129: '.': unrecognized character escape sequence
+c:\users\aida i tarik\desktop\pr3\pr3 visual\rexeg veci\rexeg veci\source.cpp(335): warning C4129: '/': unrecognized character escape sequence
+c:\users\aida i tarik\desktop\pr3\pr3 visual\rexeg veci\rexeg veci\source.cpp(342): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\rexeg veci\rexeg veci\source.cpp(376): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\rexeg veci\rexeg veci\source.cpp(383): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\rexeg veci\rexeg veci\source.cpp(412): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\rexeg veci\rexeg veci\source.cpp(415): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\rexeg veci\rexeg veci\source.cpp(478): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\rexeg veci\rexeg veci\source.cpp(493): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\rexeg veci\rexeg veci\source.cpp(500): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\rexeg veci\rexeg veci\source.cpp(58): warning C4018: '<': signed/unsigned mismatch
+  c:\users\aida i tarik\desktop\pr3\pr3 visual\rexeg veci\rexeg veci\source.cpp(55): note: while compiling class template member function 'void FITKolekcija<ClanKomisije,Kategorija>::Add(const T1 &,const T2 &)'
+          with
+          [
+              T1=ClanKomisije,
+              T2=Kategorija
+          ]
+  c:\users\aida i tarik\desktop\pr3\pr3 visual\rexeg veci\rexeg veci\source.cpp(456): note: see reference to function template instantiation 'void FITKolekcija<ClanKomisije,Kategorija>::Add(const T1 &,const T2 &)' being compiled
+          with
+          [
+              T1=ClanKomisije,
+              T2=Kategorija
+          ]
+  c:\users\aida i tarik\desktop\pr3\pr3 visual\rexeg veci\rexeg veci\source.cpp(438): note: see reference to class template instantiation 'FITKolekcija<ClanKomisije,Kategorija>' being compiled
+c:\users\aida i tarik\desktop\pr3\pr3 visual\rexeg veci\rexeg veci\source.cpp(484): warning C4715: 'FITCodingChallenge::operator+=': not all control paths return a value
+c:\users\aida i tarik\desktop\pr3\pr3 visual\rexeg veci\rexeg veci\source.cpp(505): warning C4715: 'FITCodingChallenge::operator()': not all control paths return a value
+c:\users\aida i tarik\desktop\pr3\pr3 visual\rexeg veci\rexeg veci\source.cpp(97): warning C4715: 'FITKolekcija<Ucesnik,bool>::GetElement1': not all control paths return a value
+c:\users\aida i tarik\desktop\pr3\pr3 visual\rexeg veci\rexeg veci\source.cpp(101): warning C4715: 'FITKolekcija<ClanKomisije,enum Kategorija>::GetElement2': not all control paths return a value
+c:\users\aida i tarik\desktop\pr3\pr3 visual\rexeg veci\rexeg veci\source.cpp(97): warning C4715: 'FITKolekcija<ClanKomisije,enum Kategorija>::GetElement1': not all control paths return a value
+c:\users\aida i tarik\desktop\pr3\pr3 visual\rexeg veci\rexeg veci\source.cpp(101): warning C4715: 'FITKolekcija<Ucesnik,bool>::GetElement2': not all control paths return a value
+  rexeg veci.vcxproj -> C:\Users\Aida i Tarik\Desktop\PR3\pr3 Visual\rexeg veci\Debug\rexeg veci.exe

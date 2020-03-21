@@ -1,0 +1,16 @@
+﻿  Source.cpp
+c:\users\aida i tarik\desktop\pr3\pr3 visual\kolekcija artikli\kolekcija artikli\source.cpp(192): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\aida i tarik\desktop\pr3\pr3 visual\kolekcija artikli\kolekcija artikli\source.cpp(252): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\kolekcija artikli\kolekcija artikli\source.cpp(271): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\kolekcija artikli\kolekcija artikli\source.cpp(300): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\kolekcija artikli\kolekcija artikli\source.cpp(308): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\aida i tarik\desktop\pr3\pr3 visual\kolekcija artikli\kolekcija artikli\source.cpp(310): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\aida i tarik\desktop\pr3\pr3 visual\kolekcija artikli\kolekcija artikli\source.cpp(312): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\aida i tarik\desktop\pr3\pr3 visual\kolekcija artikli\kolekcija artikli\source.cpp(338): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\aida i tarik\desktop\pr3\pr3 visual\kolekcija artikli\kolekcija artikli\source.cpp(370): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aida i tarik\desktop\pr3\pr3 visual\kolekcija artikli\kolekcija artikli\source.cpp(371): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aida i tarik\desktop\pr3\pr3 visual\kolekcija artikli\kolekcija artikli\source.cpp(372): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\aida i tarik\desktop\pr3\pr3 visual\kolekcija artikli\kolekcija artikli\source.cpp(95): warning C4018: '<': signed/unsigned mismatch
+  c:\users\aida i tarik\desktop\pr3\pr3 visual\kolekcija artikli\kolekcija artikli\source.cpp(278): note: see reference to function template instantiation 'std::ostream &operator <<<Artikal*,int>(std::ostream &,Kolekcija<Artikal *,int> &)' being compiled
+c:\users\aida i tarik\desktop\pr3\pr3 visual\kolekcija artikli\kolekcija artikli\source.cpp(314): warning C4715: 'Racun::UkupanIznosRacuna': not all control paths return a value
+  kolekcija artikli.vcxproj -> C:\Users\Aida i Tarik\Desktop\PR3\pr3 Visual\kolekcija artikli\Debug\kolekcija artikli.exe

@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\aida i tarik\desktop\pr3\pr3 visual\viza\viza\source.cpp(145): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\viza\viza\source.cpp(155): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\viza\viza\source.cpp(348): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\aida i tarik\desktop\pr3\pr3 visual\viza\viza\source.cpp(119): warning C4018: '<': signed/unsigned mismatch
+  c:\users\aida i tarik\desktop\pr3\pr3 visual\viza\viza\source.cpp(118): note: while compiling class template member function 'std::ostream &operator <<(std::ostream &,FITKolekcija<int,int,7> &)'
+  c:\users\aida i tarik\desktop\pr3\pr3 visual\viza\viza\source.cpp(362): note: see reference to class template instantiation 'FITKolekcija<int,int,7>' being compiled
+c:\users\aida i tarik\desktop\pr3\pr3 visual\viza\viza\source.cpp(69): warning C4018: '<': signed/unsigned mismatch
+  c:\users\aida i tarik\desktop\pr3\pr3 visual\viza\viza\source.cpp(68): note: while compiling class template member function 'void FITKolekcija<int,int,7>::Sortiraj(Sortiranje)'
+  c:\users\aida i tarik\desktop\pr3\pr3 visual\viza\viza\source.cpp(373): note: see reference to function template instantiation 'void FITKolekcija<int,int,7>::Sortiraj(Sortiranje)' being compiled
+  viza.vcxproj -> C:\Users\Aida i Tarik\Desktop\PR3\pr3 Visual\viza\Debug\viza.exe

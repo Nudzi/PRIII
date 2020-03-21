@@ -1,0 +1,28 @@
+﻿  Source.cpp
+c:\users\aida i tarik\desktop\pr3\pr3 visual\cetvrti cas pr3\cetvrti cas pr3\source.cpp(221): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\cetvrti cas pr3\cetvrti cas pr3\source.cpp(261): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\cetvrti cas pr3\cetvrti cas pr3\source.cpp(288): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\cetvrti cas pr3\cetvrti cas pr3\source.cpp(303): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\cetvrti cas pr3\cetvrti cas pr3\source.cpp(304): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\cetvrti cas pr3\cetvrti cas pr3\source.cpp(315): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\cetvrti cas pr3\cetvrti cas pr3\source.cpp(316): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\cetvrti cas pr3\cetvrti cas pr3\source.cpp(325): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\cetvrti cas pr3\cetvrti cas pr3\source.cpp(326): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\cetvrti cas pr3\cetvrti cas pr3\source.cpp(344): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\cetvrti cas pr3\cetvrti cas pr3\source.cpp(351): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\cetvrti cas pr3\cetvrti cas pr3\source.cpp(368): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\cetvrti cas pr3\cetvrti cas pr3\source.cpp(378): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\cetvrti cas pr3\cetvrti cas pr3\source.cpp(389): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\cetvrti cas pr3\cetvrti cas pr3\source.cpp(401): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\cetvrti cas pr3\cetvrti cas pr3\source.cpp(415): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\cetvrti cas pr3\cetvrti cas pr3\source.cpp(425): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\cetvrti cas pr3\cetvrti cas pr3\source.cpp(433): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\cetvrti cas pr3\cetvrti cas pr3\source.cpp(446): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\cetvrti cas pr3\cetvrti cas pr3\source.cpp(451): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\cetvrti cas pr3\cetvrti cas pr3\source.cpp(463): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\cetvrti cas pr3\cetvrti cas pr3\source.cpp(467): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\cetvrti cas pr3\cetvrti cas pr3\source.cpp(468): warning C4018: '<': signed/unsigned mismatch
+c:\users\aida i tarik\desktop\pr3\pr3 visual\cetvrti cas pr3\cetvrti cas pr3\source.cpp(477): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\aida i tarik\desktop\pr3\pr3 visual\cetvrti cas pr3\cetvrti cas pr3\source.cpp(383): warning C4715: 'Hotel::ProvjeraKapacitetaRezervacije': not all control paths return a value
+c:\users\aida i tarik\desktop\pr3\pr3 visual\cetvrti cas pr3\cetvrti cas pr3\source.cpp(358): warning C4715: 'Hotel::daLiPostojiRezervacija': not all control paths return a value
+  cetvrti cas pr3.vcxproj -> C:\Users\Aida i Tarik\Desktop\PR3\pr3 Visual\cetvrti cas pr3\Debug\cetvrti cas pr3.exe
